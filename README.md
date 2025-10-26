@@ -1,2 +1,12 @@
 # CS250-SDLC
-SNHU Software Development Lifecycle - work and portfolio
+(SNHU Software Development Lifecycle - work and portfolio)
+
+## How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+Similar to writing, a lot of the "work" starts even before the first draft is written. User stories are a great pre-writing exercise for our code - it makes us focus on the usertype/audience, the goal, and the intended outcome. For creating a program, the pre-writing exercises like interviews, user surveys, and data analytics can help you more wholely determine the needs for the customer. Once you have your first draft - with agile you have the ability to get more feedback from the shareholders with the quicker turnaround on deliverables - there will be edits needed and more user stories that come up that neither the dev team or the customers would have realized initially. 
+
+## How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+I like to approach developing programs by first determing the goals, then the minimum viable product, and work backwards to determine how that can be broken down to accomplish in the first sprint. This can be done in the sprint planning meeting and I intend to incorporate that into my future work.  For the set sprint or user story I like to plan the outlines, define the methods and classes etc that I will be using, map to a database if needed, and then focus on the user feedback for designing the UX/UI portion as I'm not a good designer myself I tend to focus on the backend first. For the sake of the snhu courses there aren't a lot of programs that required more than a few hours of my time - but the process is the same just abreviated. In addition to the sprint planning I think the Kanban board is also vital to get me on track when I'm coding solo.
+
+
+## What does it mean to be a good team member in software development?
+A good team member in any job will communicate effectively, be polite and kind, and be open to learn new things and share their knowledge. In software development specificially that can look like - weekly syncs and daily scrums,  remembering someone's birthday, helping them meet their sprint goals if they are facing a blocker that you know how to help with, and being patient when someone needs it. It's important to get the work done, to meet goals for the customer, but I also believe that happy workers make better products. 
